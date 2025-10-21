@@ -2,8 +2,8 @@
 
 DataSci 3000 Machine Learning - Group Project
 
-Makaato Serumaga
-Liam Truss
+Makaato Serumaga, 
+Liam Truss, 
 Michael Turkstra
 
 ## Description
